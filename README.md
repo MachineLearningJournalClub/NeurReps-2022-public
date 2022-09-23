@@ -42,3 +42,4 @@ torchsummary        1.5.1
 torchvision         0.10.1
 tqdm                4.62.2
 ```
+
