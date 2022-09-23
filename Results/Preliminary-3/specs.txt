@@ -1,0 +1,5 @@
+self.latent_enc = myNeuralNetwork(64*64,512,128,26)
+self.group_enc = myNeuralNetwork_group(64*64,128,16)
+optimizer = torch.optim.Adam(model.parameters(), lr=5e-4)#, weight_decay=1e-5)
+iters = 150
+final loss = 0.003144178518443368
